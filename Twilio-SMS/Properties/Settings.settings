@@ -1,0 +1,25 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Twilio_SMS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AccountSID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AC93abc533403c7c79ad232fb7b663aab0</Value>
+    </Setting>
+    <Setting Name="AuthToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">7b1b5be27a80603d7977ea3b490603b1</Value>
+    </Setting>
+    <Setting Name="FromNumbers" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;5145000428&lt;/string&gt;
+  &lt;string&gt;8136448938&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="EmailTo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">InboundSMS@VocalcomUSA.com</Value>
+    </Setting>
+    <Setting Name="EmailCC" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">JCarter@VocalcomUSA.com</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
