@@ -12,6 +12,6 @@ To start:
 * Upload Twilio.js into as an Action File in your Script.
 * In an Action, create a UserDefined Function and enter the below code to call the function
 
-'''javascript
-
-''''
+```javascript
+    SendSMS(@FromNumber.value, @ToNumber.value, @Message.value)
+```
